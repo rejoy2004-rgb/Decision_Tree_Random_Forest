@@ -39,7 +39,7 @@ This project implements **Decision Tree** and **Random Forest** models to predic
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/your-username/Decision-Tree-Random-Forest.git
+git clone https://github.com/rejoy2004-rgb/Decision-Tree-Random-Forest.git
 cd Decision-Tree-Random-Forest
 ```
 
